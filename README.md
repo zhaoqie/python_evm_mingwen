@@ -1,0 +1,2 @@
+# python_evm_mingwen
+python语音web3模块evm铭文自转的代码
